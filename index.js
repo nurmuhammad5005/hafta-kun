@@ -1,4 +1,4 @@
-let kun = prompt("hafta kuni kirit alo"); // "7" === 7
+let kun = prompt("hafta kuni kiriting"); // "7" === 7
 
 
 
